@@ -1,5 +1,5 @@
 # 🔬 Glaucoma Detection System using Deep Learning
-> 🚧 Status: Under Active Development | B.Tech Final Year Project (2024–2025)
+> 🚧 Status: Under Active Development | B.Tech Final Year Project (2026–2027)
 
 ## 👥 Team
 - Ankit Chaudhary
