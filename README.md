@@ -3,8 +3,8 @@
 
 ## 👥 Team
 - Ankit Chaudhary
-- [Teammate 2 Name]
-- [Teammate 3 Name]
+- Aman Singh
+- Abhishek Pal
 
 ## 📌 About
 A deep learning-based system to automatically detect glaucoma from 
